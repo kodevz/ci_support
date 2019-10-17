@@ -1,0 +1,16 @@
+{
+    "name": "kodevz/ci_support",
+    "description": "Facade Codeigniter Support",
+    "authors": [
+        {
+            "name": "Karthikesa Uthirapathy",
+            "email": "karthi.php.developer@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+			"CISupport\\" : "src/"
+		}
+    }
+}
