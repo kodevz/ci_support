@@ -7,6 +7,8 @@
             "email": "karthi.php.developer@gmail.com"
         }
     ],
+    "keywords": ["CI", "Support", "Facade", "Design", "Dependency Injection"],
+    "license": "MIT",
     "require": {},
     "autoload": {
         "psr-4": {
